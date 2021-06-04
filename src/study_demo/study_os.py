@@ -1,6 +1,6 @@
 import os
 
-
+###
 def get_all_files():
     """get a files from a path
     :return: files list
